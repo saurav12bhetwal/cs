@@ -1,0 +1,15 @@
+h3 { 
+    color: blue;
+background-color: yellowgreen;
+}
+p{
+  color: green;
+  
+  }
+  hr{
+  border-color: grey;
+   border-style: none;
+border-top-style: dotted;
+border-width: 5px;
+   width: 20%;
+  }
